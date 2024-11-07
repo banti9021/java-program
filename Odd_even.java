@@ -6,6 +6,7 @@ public class Odd_even {
         int x =sc.nextInt();
     
         if (x%2==0){
+
             System.out.println("even");
 
 
