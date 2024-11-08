@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "number2",
+            "request": "launch",
+            "mainClass": "number2",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
+            "name": "Number_pattern",
+            "request": "launch",
+            "mainClass": "Number_pattern",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
+            "name": "Tringle2",
+            "request": "launch",
+            "mainClass": "Tringle2",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
+            "name": "Tringle",
+            "request": "launch",
+            "mainClass": "Tringle",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
             "name": "Pattern2",
             "request": "launch",
             "mainClass": "Pattern2",
