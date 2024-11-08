@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Zero_pattern",
+            "request": "launch",
+            "mainClass": "Zero_pattern",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
+            "name": "Floyd_tringle",
+            "request": "launch",
+            "mainClass": "Floyd_tringle",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
             "name": "number2",
             "request": "launch",
             "mainClass": "number2",
