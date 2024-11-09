@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromePattern",
+            "request": "launch",
+            "mainClass": "PalindromePattern",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
+            "name": "Palidrome_pattern",
+            "request": "launch",
+            "mainClass": "Palidrome_pattern",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
             "name": "Number_pyramid",
             "request": "launch",
             "mainClass": "Number_pyramid",
