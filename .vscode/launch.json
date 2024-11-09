@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Number_pyramid",
+            "request": "launch",
+            "mainClass": "Number_pyramid",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
+            "name": "Solid_rombus",
+            "request": "launch",
+            "mainClass": "Solid_rombus",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyPattern",
+            "request": "launch",
+            "mainClass": "ButterflyPattern",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
+            "name": "Butterfly_pattern",
+            "request": "launch",
+            "mainClass": "Butterfly_pattern",
+            "projectName": "java-program_8700898"
+        },
+        {
+            "type": "java",
             "name": "Zero_pattern",
             "request": "launch",
             "mainClass": "Zero_pattern",
